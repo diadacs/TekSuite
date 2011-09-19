@@ -1,4 +1,4 @@
-TekSuite - ERP Software © tekworcs 2011
+TekSuite - ERP Software © TekWorc 2011
 
 Branch       Version            Description
 --------------------------------------------------------

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001.Configuration", "001.Configuration", "{AC3AB05F-A661-443C-A0B1-F063C662F218}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900.Unit.Test", "900.Unit.Test", "{716A5255-E259-4AFD-AC53-A7A0D21D66C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekWorc.Suite.Configuration", "..\TekWorc.Suite.Configuration\TekWorc.Suite.Configuration.csproj", "{E4A6DBE1-EA13-42D5-B5E2-5B9FD9993603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A6DBE1-EA13-42D5-B5E2-5B9FD9993603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A6DBE1-EA13-42D5-B5E2-5B9FD9993603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A6DBE1-EA13-42D5-B5E2-5B9FD9993603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A6DBE1-EA13-42D5-B5E2-5B9FD9993603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4A6DBE1-EA13-42D5-B5E2-5B9FD9993603} = {AC3AB05F-A661-443C-A0B1-F063C662F218}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002.Routing", "002.Routing", "{AC3AB05F-A661-443C-A0B1-F063C662F218}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900.Unit.Test", "900.Unit.Test", "{716A5255-E259-4AFD-AC53-A7A0D21D66C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001.Web", "001.Web", "{2ECC0BBB-808E-472D-985C-F0BF768E4C95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "004.Controller", "004.Controller", "{C4742EE4-05B3-427A-8533-1AD4510ECDBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "003.View", "003.View", "{C14DACC1-1A85-4C92-84B9-B67116ACAF1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekWorc.Suite.Web", "..\TekWorc.Suite.Web\TekWorc.Suite.Web.csproj", "{AD7F176D-C27E-4082-B68B-37FC3A8E9B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7F176D-C27E-4082-B68B-37FC3A8E9B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7F176D-C27E-4082-B68B-37FC3A8E9B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7F176D-C27E-4082-B68B-37FC3A8E9B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7F176D-C27E-4082-B68B-37FC3A8E9B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD7F176D-C27E-4082-B68B-37FC3A8E9B42} = {2ECC0BBB-808E-472D-985C-F0BF768E4C95}
+	EndGlobalSection
+EndGlobal

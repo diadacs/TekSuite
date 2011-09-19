@@ -1,0 +1,5 @@
+D:\TekWorc\TekSuite\1.0.x.x\Assemblies\Anito.Data.dll
+D:\TekWorc\TekSuite\1.0.x.x\Assemblies\Anito.Data.pdb
+D:\TekWorc\TekSuite\1.0.x.x\ThirdParty\anito.NET\1.0.x.x\Anito.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\TekWorc\TekSuite\1.0.x.x\ThirdParty\anito.NET\1.0.x.x\Anito.Data\obj\Debug\Anito.Data.dll
+D:\TekWorc\TekSuite\1.0.x.x\ThirdParty\anito.NET\1.0.x.x\Anito.Data\obj\Debug\Anito.Data.pdb
